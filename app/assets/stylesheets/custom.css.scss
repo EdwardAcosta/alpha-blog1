@@ -2,7 +2,7 @@
 
 .navbar {
 
-background-color: #FDF6EA !important;
+background-color: #08088A !important;
 
 }
 
@@ -20,5 +20,23 @@ h1 {
 
 color: green;
 
+}
+
+#logo {
+	float: left;
+	font-size: 1.7em;
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: -1px;
+	forn-weight: bold;
+}
+
+#logo.hover {
+	color: #fff;
+	text-decoration: none;
+}
+
+.center {
+	text-align: center;
 }
 
