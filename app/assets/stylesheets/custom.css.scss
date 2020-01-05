@@ -1,25 +1,15 @@
  @import 'bootstrap/dist/css/bootstrap';
 
 .navbar {
-
 background-color: black !important;
-
 }
-
- 
 
 .navbar-brand {
-
 font-size: 3rem;
-
 }
 
- 
-
 h1 {
-
 color: green;
-
 }
 
 #logo {
@@ -51,7 +41,6 @@ color: green;
 	margin-bottom: 30px;
 	letter-spacing: -1px;
 	font-weight: bold;
-
 }
 
 .btn-xlarge {
@@ -65,20 +54,28 @@ color: green;
 	border-top: 1px solid #eaeaea;
 	color: #777;
 }
+
 .footer a:hover{
 	color:#222	
 }
 
 .footer small {
 	float: left;
-
 }
+
 .footer ul {
 	float: right;
 	list-style: none;
+}
+
+.article-actions {
+	border-top: 1px solid #eaeaea;
+	padding-top: 5px;
 }
 
 .footer ul li {
 	float:left;
 	margin-left:15px;
 }
+
+
